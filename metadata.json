@@ -1,0 +1,6 @@
+{
+  "name": "Task & Progress Tracker",
+  "description": "Daily task management, daily and monthly performance reporting, completion rate tracking, and interactive analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
